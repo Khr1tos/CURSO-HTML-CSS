@@ -1,0 +1,14 @@
+li{
+    color:grey;
+}
+span{
+    color: rgb(0, 0, 0);
+}
+
+.Ingrediente_faltante{
+    color: red;
+}
+
+#ingrediente_secreto{
+    color:green;
+}
