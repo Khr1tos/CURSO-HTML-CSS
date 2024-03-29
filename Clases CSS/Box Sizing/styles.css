@@ -1,0 +1,30 @@
+div{
+    background-color: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    border-style: solid; 
+    border-width: 3px;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+.borde-2{
+    border: 2px solid rgb(73, 80, 73);
+    margin-top: 20px;
+}
+
+.borde-3{
+    border-top: 2px solid yellow;
+    border-left: 2px solid yellow;
+    border-right: 2px solid yellow;
+    margin-top: 20px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+.borde-4{
+    margin-top: 20px;
+    border: 2px solid green;
+    border-radius: 10px 10px 0px 0;
+}
